@@ -4,3 +4,6 @@
 Repositório criado durante uma aula ao vivo!
 
 Essa linha eu adicionei diretamendo no site! QUE IMPRESSIONANTE!
+
+
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">
