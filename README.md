@@ -1,9 +1,8 @@
 <div align="center">
  <h1> Olá, Mundos!</h1>
- Repositorios de cursos de Git e GitHub
 
   <p>
-   Repositorios de cursos de Git e GitHub.
+   Repositorios de testes feitos em cursos de Git e GitHub.
    Repositório criado durante uma aulas.
  </p>
  
